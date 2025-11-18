@@ -4,7 +4,7 @@
 $nome = 'otavio ';
 $sobrenome = 'leopoldo';
 
-// Usando a condição nullCAO na prática, caso a variável sobrenome não exista, o código irá exibir somente o nome na tela
+// Usando a condição nullCAO na prática, caso a variável nome e sobrenome não exista, o código irá exibir visitante
 
 $nomeCompleto = $nome ?? 'Visitante';
 $nomeCompleto .= $sobrenome ?? '';

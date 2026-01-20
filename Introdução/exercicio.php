@@ -1,8 +1,5 @@
 <?php
 
-
-
-
 $lista = [
   'nome' => 'Leopoldo',
   'idade' => '16',
@@ -18,3 +15,5 @@ $lista = [
 echo "Nome: " . $lista['nome'] . "<br/>";
 echo "Força: " . $lista['atributos']['forca'] . "<br/>";
 echo "Vida: " . $lista['vida'];
+
+?>

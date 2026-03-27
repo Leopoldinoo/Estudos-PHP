@@ -1,6 +1,6 @@
 <?php
 
-// Parâmetro opcional algum parâmetro com valor padrão, ou seja, já definido, esse é o $n3.
+// Parâmetro opcional, algum parâmetro com valor padrão, ou seja, já definido, esse é o $n3.
 
 //em uma variável dentro de um parâmetro, antes dela, eu consigo definir, qual o tipo de valor q será retornado, por exemplo: int $n1.
 
